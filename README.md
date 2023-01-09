@@ -10,7 +10,7 @@ I recently finished my PhD, where I spent thousands of hours teaching many contr
 
 ## Contact
 
-Feel free to email me at mistermath4@gmail.com if you have any questions. I'll do my best to get back to you, but this project is purely in my free time so I may be slow to reply - please be patient!
+Feel free to email me at james.lg.oconnell@gmail.com if you have any questions. I'll do my best to get back to you, but this project is purely in my free time so I may be slow to reply - please be patient!
 
 Cheers,
 James
